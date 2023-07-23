@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Marquez</h1>
-<h3 align="center">I am an optimistic backend oriented fullstack, eager to help and learn</h3>
+<h3 align="center">I am an optimistic FullStack oriented to Backend, eager to help and learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-am2003&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-am2003" /> </p>
 
