@@ -12,7 +12,6 @@
 
 ## Logros Destacados ✔️
 
-- Satisfactoriamente cumplí con una solicitud especial del cliente en Summa Proyectos, creando un render interactivo utilizando Unreal Engine, lo que generó un impresionante ingreso de $115,000 para la empresa.
 - Mejoré significativamente el tiempo de respuesta del algoritmo principal en la aplicación Huntek, logrando un aumento del 22% en la fluidez general de la aplicación en comparación con las dos primeras versiones del servidor.
 
 ## Proyectos Destacados 🎮
