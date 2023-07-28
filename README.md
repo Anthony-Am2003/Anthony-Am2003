@@ -3,7 +3,6 @@ Anthony Márquez - Desarrollador Full Stack
 
 Sobre mí
 👨‍💻 Desarrollador Full Stack con especialización en Front-end y Back-end.
-📐 Técnico Delineante con experiencia en proyectos arquitectónicos y civiles.
 💼 Actualmente trabajo como Desarrollador Backend en Huntek, una aplicación de emparejamiento que facilita conexiones entre empresas y candidatos mediante un algoritmo sofisticado.
 🌱 Siempre estoy aprendiendo y mejorando mis habilidades para mantenerme al tanto de las últimas tendencias tecnológicas.
 🚀 Apasionado por enfrentar desafíos y resolver problemas de manera creativa.
