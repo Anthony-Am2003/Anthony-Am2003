@@ -1,26 +1,128 @@
-<h1 align="center">Hi 👋, I'm Anthony Marquez</h1>
-<h3 align="center">I am an optimistic FullStack oriented to Backend, eager to help and learn</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Anthony Márquez</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        h3 {
+            text-align: center;
+            font-weight: normal;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .achievement {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hi 👋, I'm Anthony Marquez</h1>
+    <h3>I am an optimistic FullStack oriented to Backend, eager to help and learn</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthony-am2003&label=Profile%20views&color=0e75b6&style=flat" alt="anthony-am2003" /> </p>
+    <div class="section">
+        <div class="section-title">Contact</div>
+        <ul>
+            <li>Email: <a href="mailto:tonyaamb2003@gmail.com">tonyaamb2003@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/anthony-márquez-03bab2241/">linkedin.com/in/anthony-márquez-03bab2241/</a></li>
+            <li>GitHub: <a href="https://github.com/Anthony-Am2003">github.com/Anthony-Am2003</a></li>
+        </ul>
+    </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthony-am2003" alt="anthony-am2003" /></a> </p>
+    <div class="section">
+        <div class="section-title">About Me</div>
+        <p>I am a highly motivated Full Stack Developer with a focus on Backend development, and experience as an Advanced Technical Draftsman in architectural and civil projects. I possess strong teamwork, strategic thinking, and leadership skills. I specialize in Front-end and Back-end development, with knowledge in project management, GIT, data structures, algorithms, agile methodologies, frameworks, and CSS. I have a B2 level of English proficiency.</p>
+    </div>
 
-- 🔭 I’m currently working on [Huntek](http://huntek.com)
+    <div class="section">
+        <div class="section-title">Technical Skills</div>
+        <ul>
+            <li>HTML · CSS · JavaScript · React · Redux · Node.js · Express · GIT · Github · PostgreSQL · Sequelize</li>
+            <li>Python · FastApi · Docker · Alembic · Sqlalchemy</li>
+        </ul>
+    </div>
 
-- 🌱 I’m currently learning **TypeScript**
+    <div class="section">
+        <div class="section-title">Professional Experience</div>
+        <p>
+            <strong>Summa Proyectos - Civil and Architectural Projects Management Company</strong><br>
+            <em>Technical Draftsman</em><br>
+            Guayaquil, Ecuador<br>
+            Responsibilities:
+        </p>
+        <ul>
+            <li>Collaborated on project development tasks using Architectural technologies such as Sketchup, AutoCAD, Enscape, Luminattion, and ArchiCAD.</li>
+        </ul>
 
-- 👨‍💻 All of my projects are available at [ComingSoon](ComingSoon)
+        <div class="achievement">
+            <strong>Highlighted Achievement:</strong><br>
+            - Successfully fulfilled a special client request by creating an interactive render using Unreal Engine, resulting in an impressive income of $115,000 for the company.
+        </div>
+    </div>
 
-- 💬 Ask me about **fastApi, Docker**
+    <div class="section">
+        <div class="section-title">Professional Experience</div>
+        <p>
+            <strong>Huntek</strong><br>
+            <em>Backend Developer</em><br>
+            Mexico City, Mexico<br>
+            Responsibilities:
+        </p>
+        <ul>
+            <li>Managing and developing tasks related to the server-side of the Huntek app. Utilizing Agile methodologies (Scrum), gitFlow for version control, and Python, FastApi, Alembic, Docker, AmazonWebService, SqlAlchemy, and JWT for development.</li>
+        </ul>
 
-- 📫 How to reach me **tonyaamb2003@gmail.com**
+        <div class="achievement">
+            <strong>Highlighted Achievement:</strong><br>
+            - Significantly enhanced the response time of the main algorithm in the Huntek app, resulting in a 22% increase in overall app fluidity compared to the initial two server versions.
+        </div>
+    </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anthony-márquez-03bab2241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony márquez" height="30" width="40" /></a>
-</p>
+    <div class="section">
+        <div class="section-title">Projects</div>
+        <p>
+            <strong>Full Stack Web Developer - PI Pokemon</strong><br>
+            Academic Experience - Henry Bootcamp<br>
+            May '23 - Jun '23<br>
+            Developed a Single Page Application (SPA) using React and Redux for the Front-end, with no external CSS libraries. Back-end built with Node.js and Express, utilizing PostgreSQL and Sequelize for the database, through an API.
+            Key features: search, sorting, filtering, and controlled form for creating new Pokemons.
+        </p>
+    </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+    <div class="section">
+        <div class="section-title">Education</div>
+        <p>
+            - Full Stack Web Developer. Henry Bootcamp. 700 hours of theoretical and practical training. 2023.<br>
+            - Technical Degree in Software Development. Sena Colombia 2020.
+        </p>
+    </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthony-am2003&show_icons=true&locale=en" alt="anthony-am2003" /></p>
+    <div class="section">
+        <div class="section-title">Languages</div>
+        <ul>
+            <li>English - B2</li>
+            <li>Español - Nativo</li>
+        </ul>
+    </div>
+
+</body>
+</html>
+
